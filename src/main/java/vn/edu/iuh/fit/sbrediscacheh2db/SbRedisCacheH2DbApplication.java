@@ -7,6 +7,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.context.annotation.Bean;
+
 import vn.edu.iuh.fit.sbrediscacheh2db.models.User;
 import vn.edu.iuh.fit.sbrediscacheh2db.repositories.UserRepository;
 
